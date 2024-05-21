@@ -1,7 +1,7 @@
 
 ![Logo](https://example.example/example.png)
 
-# Project Title
+# HIT
 
 HIT - Human Identification Tool. Compare faces & voices.
 
