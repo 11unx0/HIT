@@ -1,0 +1,4 @@
+PyQt5
+face_recognition
+resemblyzer
+numpy
