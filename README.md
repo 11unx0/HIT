@@ -11,6 +11,7 @@ HIT - Human Identification Tool. Compare faces & voices.
 Install modules with python pip
 
 ```bash
+git clone https://github.com/11unx0/HIT
 cd HIT/
 pip install -r requirements.txt
 ```
